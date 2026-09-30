@@ -9,9 +9,9 @@ lines through short typed commands — no GUI.
 
 > Fill in before submitting:
 
-- Name 1 — role/what they worked on
-- Name 2 — role/what they worked on
-- Name 3 — role/what they worked on
+- Member 1 — HAMPAN GOWDA K L (Wrote the code for insert, delete, and to display the document)
+- Member 2 — GAGAN S PATIL (Added further functions: Save, Search, Find and Replaceing the document)
+- Member 3 — G JASHWANTH KUMAR (Rectified the bugs and finalized the code)
 
 ## Features implemented
 
